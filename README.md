@@ -3,4 +3,4 @@
 Hi !
 
 I'm new to github.
-I like share my codings via github.
+I like to share my codings via github.
