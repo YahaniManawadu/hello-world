@@ -2,5 +2,5 @@
 
 Hi !
 
-I'm new to github
-I like share my codings via github
+I'm new to github.
+I like share my codings via github.
