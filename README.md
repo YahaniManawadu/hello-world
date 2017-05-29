@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi !
+
+I'm new to github
+I like share my codings via github
